@@ -1,3 +1,14 @@
+//pseudo code
+//change the database to my own collection 
+//run in the server
+//make all thumbs up and down working 
+//worked with a group to solve it and made it work
+//I run into a lot of issues like when I didn't know I had other terminals opened with server runing 
+//after solving the issue the code worked
+
+
+
+
 let thumbUp = document.getElementsByClassName("fa-thumbs-up");
 let trash = document.getElementsByClassName("fa-trash");
 let thumbDown = document.getElementsByClassName("fa fa-thumbs-down");
