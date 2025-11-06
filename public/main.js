@@ -9,6 +9,7 @@
 
 
 
+
 let thumbUp = document.getElementsByClassName("fa-thumbs-up");
 let trash = document.getElementsByClassName("fa-trash");
 let thumbDown = document.getElementsByClassName("fa fa-thumbs-down");
